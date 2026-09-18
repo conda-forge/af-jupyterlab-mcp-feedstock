@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.2.0"
+  version: "0.3.0"
 
 package:
   name: af-jupyterlab-mcp
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/af_jupyterlab_mcp/af_jupyterlab_mcp-${{ version }}.tar.gz
-  sha256: 88f60270f1aa36c18e24d24fce1084e23a2539cfa06fc6a925a473cfdf8541b0
+  sha256: 4920fb865ac8b7297d3a8f994a40c4d6a1da1ac3a82c29b88c747d8ce8f0f73d
 
 build:
   number: 0
